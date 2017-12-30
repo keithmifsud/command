@@ -1,0 +1,21 @@
+{
+    "name": "swellphp/command",
+    "description": "A PHP Command Bus with Command Handler.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keith Mifsud",
+            "email": "mifsud.k@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Swellphp\\Command\\": "src/Swellphp/Command"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
