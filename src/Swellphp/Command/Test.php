@@ -19,7 +19,7 @@ class Test
 {
     public function run()
     {
-        echo "Running from external package :)";
+        return "Running from external package :)";
     }
 
 }
