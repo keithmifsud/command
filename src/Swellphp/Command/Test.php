@@ -13,7 +13,7 @@
  * @version   1.0 Initial Release
  */
 
-namespace Swellphp\Command;
+namespace Swellphp\Commander;
 
 class Test
 {
