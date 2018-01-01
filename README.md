@@ -7,4 +7,6 @@ A Command Bus and Command Handling Component
 
 Please do not sue this package as it is under initial development.
 
+I am in process of separating the components of the swellphp/eventful framework.
+
 
