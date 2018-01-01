@@ -13,13 +13,13 @@
  * @version   1.0 Initial Release
  */
 
-namespace Swellphp\Commander;
+namespace Swellphp\Command;
 
 class Test
 {
     public function run()
     {
-        return "Running from external package :)";
+        return "Updated :) :)";
     }
 
 }
