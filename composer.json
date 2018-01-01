@@ -1,5 +1,5 @@
 {
-    "name": "swellphp/commander",
+    "name": "swellphp/command",
     "description": "A PHP Command Bus with Command Handler.",
     "type": "library",
     "license": "MIT",
