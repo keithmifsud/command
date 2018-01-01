@@ -19,7 +19,7 @@ class Test
 {
     public function run()
     {
-        return "Updated :) :)";
+        return "Updated :) :) :)";
     }
 
 }
